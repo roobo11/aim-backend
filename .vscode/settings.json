@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "aim/Scripts/python.exe",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": false,
+    "python.analysis.typeCheckingMode": "off"
+  }
+  

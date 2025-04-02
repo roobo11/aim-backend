@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 환경 설정
+.env
+*.env
+*.env.*
+
+# 가상환경
+venv/
+ENV/
+env/
+.venv/
+aim/
+
+# 에디터 설정
+.vscode/
+.idea/
+
+# 데이터베이스
+db.sqlite3
+*.sqlite3
+
+# 마이그레이션 캐시
+*/migrations/__pycache__/
+*/migrations/*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# pytest / coverage
+htmlcov/
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+.coverage
+.coverage.*
+
+# 기타
+*.log
