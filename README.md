@@ -5,9 +5,9 @@
 ---
 
 ## 🧰 개발 환경
-- Python 3.9 이상
-- Django 4.x
-- MySQL 8.x
+- Python 3.10
+- Django 5.1
+- MySQL 8.0
 - 가상환경: `venv`
 
 ## 🧪 설치 및 실행
