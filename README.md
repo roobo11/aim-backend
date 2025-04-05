@@ -23,9 +23,6 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 # 라이브러리 설치
 pip install -r requirements.txt
 
-# 환경 설정 파일 (.env)
-cp env/.env.example env/.env  # 또는 직접 작성
-
 # 마이그레이션 및 실행
 python manage.py migrate
 python manage.py runserver
